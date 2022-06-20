@@ -139,43 +139,43 @@ The provided components refer to the custom theme with custom properties.
 
 ### Carousel component
 
-![Carousel component]()
+![Carousel component](assets/Carousel-component.gif)
 
 ### Coachmark component
 
-![Coachmark component]()
+![Coachmark component](assets/Coachmark-component.gif)
 
 ### Combobox component
 
-![Combobox component]()
+![Combobox component](assets/Combobox-component.gif)
 
 ### Donut chart component
 
-![Donut chart component]()
+![Donut chart component](assets/Donut-chart-component.gif)
 
 ### Datepicker component
 
-![Datepicker component]()
+![Datepicker component](assets/Datepicker-component.gif)
 
 ### Dropdown component
 
-![Dropdown component]()
+![Dropdown component](assets/Dropdown-component.gif)
 
 ### Likert component
 
-![Likert component]()
+![Likert component](assets/Likert-component.gif)
 
 ### Textinput component
 
-![Textinput component]()
+![Textinput component](assets/Textinput-component.gif)
 
 ### Toast component
 
-![Toast component]()
+![Toast component](assets/Toast-component.gif)
 
 ### Sidebar navigation component
 
-![Sidebar navigation component]()
+![Sidebar navigation component](assets/Sidebar-navigation-component.gif)
 
 ## Screens
 
